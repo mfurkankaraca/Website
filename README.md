@@ -1,2 +1,2 @@
 # Website
-This is my website used only for hosting documents.
+This is my github pages used only for hosting documents.
